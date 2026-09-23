@@ -1,0 +1,12 @@
+sarvamai==0.1.31a4
+
+fastapi
+uvicorn
+google-genai
+python-dotenv
+streamlit
+langchain
+langchain-google-genai
+requests
+sqlalchemy
+pymysql
